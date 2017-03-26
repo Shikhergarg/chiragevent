@@ -72,7 +72,7 @@ $(window).load(function() {
 			  <div class="fixed-header">
 			      <!--logo-->
 			       <div class="logo wow fadeInLeft animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInLeft;">
-                        <a href="final.php"><img src="images/logo chirag.png" style="position:absolute;top:0px;right:100%;height:50px;width:70px"><h1 style='font-size:28px;position:relative;right:0%;top:5px;color:yellow;font-family: "Lucida Console", Monaco, monospace;'><b>Chirag</h1><h1 style='font-size:18px;position:relative;right:0%;top:5px;color:yellow;font-family: "Gudea", sans-serif;'>Event & Entertainment</b> </h1></a>
+                        <a href="index.php"><img src="images/logo chirag.png" style="position:absolute;top:0px;right:100%;height:50px;width:70px"><h1 style='font-size:28px;position:relative;right:0%;top:5px;color:yellow;font-family: "Lucida Console", Monaco, monospace;'><b>Chirag</h1><h1 style='font-size:18px;position:relative;right:0%;top:5px;color:yellow;font-family: "Gudea", sans-serif;'>Event & Entertainment</b> </h1></a>
 				  </div>
 					<!--//logo-->
 					<div class="top-menu wow fadeInRight animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInRight;">
