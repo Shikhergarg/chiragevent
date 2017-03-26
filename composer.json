@@ -1,0 +1,13 @@
+{
+    "name": "shikhergarg/css",
+    "description": "Test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kartik jain",
+            "email": "jainkartik1995@gmail.com"
+        }
+    ],
+    "require": {}
+}
