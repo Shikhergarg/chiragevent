@@ -303,9 +303,9 @@ This ensures you are left to enjoy the magical build up to your big day.
 						</a>
 					</div>
 					<div class="col-md-6 baner-top wow fadeInRight animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInRight;">
-						<a href="photos/4.jpg" class="b-link-stripe b-animate-go  swipebox">
+						<a href="images/10.jpg" class="b-link-stripe b-animate-go  swipebox">
 							<div class="gal-spin-effect vertical ">
-								<img src="photos/4.jpg" alt="decoration" style="height:344px;width:540px;" />
+								<img src="images/10.jpg" alt="decoration" style="height:344px;width:540px;" />
 								<div class="gal-text-box">
 									<div class="info-gal-con">
 										<h4>Decoration</h4>
@@ -339,9 +339,9 @@ This ensures you are left to enjoy the magical build up to your big day.
 						</a>
 					</div>
 					<div class="col-md-3 baner-top ban-mar wow fadeInRight animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInRight;">
-						<a href="photos/5.jpg" class="b-link-stripe b-animate-go  swipebox">
+						<a href="images/10.jpg" class="b-link-stripe b-animate-go  swipebox">
 							<div class="gal-spin-effect vertical ">
-								<img src="photos/5.jpg" alt="wedding-setup" style="width:340px;height:240px;"/>
+								<img src="images/10.jpg" alt="wedding-setup" style="width:340px;height:240px;"/>
 								<div class="gal-text-box">
 									<div class="info-gal-con">
 										<h4>Setup</h4>
