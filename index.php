@@ -416,9 +416,7 @@ This ensures you are left to enjoy the magical build up to your big day.
 		
 	</div>
 </div>
-<?php
-  }
-?>
+
 	<div class="footer">
 		<div class="footer-info">
 			<div class="container">	
